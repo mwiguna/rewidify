@@ -89,3 +89,5 @@ You may use `class="offset-*"` for make empty space on the left side :
 
 There are 12 offset classes to make empty space as well.
 
+For more details. Please visit [Documentation](https://mwiguna.github.io/rewidify)
+
